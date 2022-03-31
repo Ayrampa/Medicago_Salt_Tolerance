@@ -1,6 +1,6 @@
 # Medicago Salt Tolerance
 
-This Jupyter notebook is devoted to the Srlk-gene nucleotide polymorphism analysis. Previously ([PhD thesis](https://vak.minobrnauki.gov.ru/advert/188500)) perennial Medicago accessions were taken in the sequencing experiments and were simultaneously evaluated for salt tolerance in a greenhouse. 
+This Jupyter notebook is devoted to the Srlk-gene nucleotide polymorphism analysis. Previously (in the PhD thesis) perennial Medicago accessions were taken in the sequencing experiments and were simultaneously evaluated for salt tolerance in a greenhouse. 
 
 The data is imported as `df` and contains revealed nucleotide polymorphism of the Srlk-gene, root, stem length, and vitality of the plants.
 
